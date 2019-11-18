@@ -1,40 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d2fbffc-d064-48ac-9873-fc27c1f3cce1" name="Default Changelist" comment="" />
+    <list default="true" id="9d2fbffc-d064-48ac-9873-fc27c1f3cce1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/model/Honda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/Yamaha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/model/Yamaha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/InjectConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task6InjectConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/InjectField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task4InjectField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/InjectList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task8InjectList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/InjectPropertyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task9InjectPropertyFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/InjectSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task5InjectSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/InjectTwoBeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task7InjectTwoBeans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/MotoAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task3MotoAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/MotoJavaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task2MotoJavaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/smthyellow/model/impl/MotoXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smthyellow/tasks/Task1MotoXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/smthyellow/conf/Conf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/smthyellow/conf/Conf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/Honda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/smthyellow/model/Honda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/Yamaha.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/smthyellow/model/Yamaha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/InjectConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/InjectField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/InjectList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/InjectPropertyFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/InjectSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/InjectTwoBeans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/MotoAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/MotoJavaConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/smthyellow/model/impl/MotoXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/smthyellow/conf/Conf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/smthyellow/conf/Conf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/smthyellow/model/impl/MotoAnnotationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/META-INF/mrBean.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/META-INF/mrBean.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/META-INF/mrBean.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/src/test/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/target/test-classes/META-INF/mrBean.kotlin_module" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mrBean" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ThWrBYaWHRKEFc4g520TepRs2z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ita_spring_2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4890679" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="smthyellow.model.impl" />
+      <recent name="smthyellow.beanPostProcessor" />
       <recent name="smthyellow.tasks" />
+      <recent name="smthyellow.model.impl" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="smthyellow.tasks" />
       <recent name="smthyellow" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -56,20 +161,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MotoAnnotationTest.contextBeanAnnotation">
-    <configuration name="MotoAnnotationTest.contextBeanAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.BeanPostProcRunner">
+    <configuration name="BeanPostProcRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="smthyellow.beanPostProcessor.BeanPostProcRunner" />
       <module name="mrBean" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="smthyellow.model.impl.*" />
+          <option name="PATTERN" value="smthyellow.beanPostProcessor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="smthyellow.model.impl" />
-      <option name="MAIN_CLASS_NAME" value="smthyellow.model.impl.MotoAnnotationTest" />
-      <option name="METHOD_NAME" value="contextBeanAnnotation" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,68 +192,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmthyellowTest.contextBeanAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task10BeanPostProcessorTest.Task10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mrBean" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="smthyellow.*" />
+          <option name="PATTERN" value="smthyellow.beanPostProcessor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="smthyellow" />
-      <option name="MAIN_CLASS_NAME" value="smthyellow.SmthyellowTest" />
-      <option name="METHOD_NAME" value="contextBeanAnnotation" />
+      <option name="PACKAGE_NAME" value="smthyellow.beanPostProcessor" />
+      <option name="MAIN_CLASS_NAME" value="smthyellow.beanPostProcessor.Task10BeanPostProcessorTest" />
+      <option name="METHOD_NAME" value="Task10" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmthyellowTest.contextBeanWithXml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task6InjectConstructorTest.injectConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mrBean" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="smthyellow.*" />
+          <option name="PATTERN" value="smthyellow.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="smthyellow" />
-      <option name="MAIN_CLASS_NAME" value="smthyellow.SmthyellowTest" />
-      <option name="METHOD_NAME" value="contextBeanWithXml" />
+      <option name="PACKAGE_NAME" value="smthyellow.tasks" />
+      <option name="MAIN_CLASS_NAME" value="smthyellow.tasks.Task6InjectConstructorTest" />
+      <option name="METHOD_NAME" value="injectConstructor" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmthyellowTest.injectionValueFromPropFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task8InjectListTest.injectionListOfBeans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mrBean" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="smthyellow.*" />
+          <option name="PATTERN" value="smthyellow.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="smthyellow" />
-      <option name="MAIN_CLASS_NAME" value="smthyellow.SmthyellowTest" />
+      <option name="PACKAGE_NAME" value="smthyellow.tasks" />
+      <option name="MAIN_CLASS_NAME" value="smthyellow.tasks.Task8InjectListTest" />
+      <option name="METHOD_NAME" value="injectionListOfBeans" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9InjectPropertyFileTest.injectionValueFromPropFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mrBean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smthyellow.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smthyellow.tasks" />
+      <option name="MAIN_CLASS_NAME" value="smthyellow.tasks.Task9InjectPropertyFileTest" />
       <option name="METHOD_NAME" value="injectionValueFromPropFile" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmthyellowTest.injectionWithField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mrBean" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="smthyellow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="smthyellow" />
-      <option name="MAIN_CLASS_NAME" value="smthyellow.SmthyellowTest" />
-      <option name="METHOD_NAME" value="injectionWithField" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
@@ -169,13 +270,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.SmthyellowTest" />
+      <item itemvalue="JUnit.Task6InjectConstructorTest.injectConstructor" />
+      <item itemvalue="JUnit.Task9InjectPropertyFileTest.injectionValueFromPropFile" />
+      <item itemvalue="JUnit.Task8InjectListTest.injectionListOfBeans" />
+      <item itemvalue="Application.BeanPostProcRunner" />
+      <item itemvalue="JUnit.Task10BeanPostProcessorTest.Task10" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MotoAnnotationTest.contextBeanAnnotation" />
-        <item itemvalue="JUnit.SmthyellowTest.injectionValueFromPropFile" />
-        <item itemvalue="JUnit.SmthyellowTest.contextBeanAnnotation" />
-        <item itemvalue="JUnit.SmthyellowTest.injectionWithField" />
-        <item itemvalue="JUnit.SmthyellowTest.contextBeanWithXml" />
+        <item itemvalue="Application.BeanPostProcRunner" />
+        <item itemvalue="JUnit.Task10BeanPostProcessorTest.Task10" />
+        <item itemvalue="JUnit.Task8InjectListTest.injectionListOfBeans" />
+        <item itemvalue="JUnit.Task9InjectPropertyFileTest.injectionValueFromPropFile" />
+        <item itemvalue="JUnit.Task6InjectConstructorTest.injectConstructor" />
       </list>
     </recent_temporary>
   </component>
@@ -191,11 +300,28 @@
       <updated>1573913003435</updated>
       <workItem from="1573913007341" duration="867000" />
       <workItem from="1573932539782" duration="1405000" />
-      <workItem from="1573970844162" duration="13919000" />
+      <workItem from="1573970844162" duration="16910000" />
+      <workItem from="1574057393092" duration="11288000" />
+      <workItem from="1574077980634" duration="4611000" />
+      <workItem from="1574089454678" duration="175000" />
+      <workItem from="1574090329624" duration="1204000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

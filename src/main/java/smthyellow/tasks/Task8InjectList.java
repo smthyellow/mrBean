@@ -1,16 +1,17 @@
-package smthyellow.model.impl;
+package smthyellow.tasks;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 import smthyellow.model.Moto;
 import smthyellow.model.Start;
 
 import java.util.List;
-
-public class InjectList implements Start {
+@Component
+public class Task8InjectList implements Start {
     List<Moto> motoList;
 
     @Autowired
-    public InjectList(List<Moto> motoList) {
+    public Task8InjectList(List<Moto> motoList) {
         this.motoList = motoList;
     }
 

@@ -1,14 +1,14 @@
-package smthyellow.model.impl;
+package smthyellow.tasks;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import smthyellow.model.Moto;
 import smthyellow.model.Start;
 
-public class InjectTwoBeans implements Start {
+public class Task7InjectTwoBeans implements Start {
     Moto honda;
     Moto yamaha;
 
-    public InjectTwoBeans(@Qualifier("honda") Moto honda, @Qualifier("yamaha") Moto yamaha) {
+    public Task7InjectTwoBeans(@Qualifier("honda") Moto honda, @Qualifier("yamaha") Moto yamaha) {
         this.honda = honda;
         this.yamaha = yamaha;
     }

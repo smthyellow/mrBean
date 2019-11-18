@@ -1,4 +1,4 @@
-package smthyellow.model.impl;
+package smthyellow.tasks;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -6,7 +6,7 @@ import smthyellow.model.Start;
 import smthyellow.model.Yamaha;
 
 @Component
-public class InjectField implements Start {
+public class Task4InjectField implements Start {
     @Autowired
     Yamaha yamaha;
 

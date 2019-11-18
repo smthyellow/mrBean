@@ -1,4 +1,4 @@
-package smthyellow.model.impl;
+package smthyellow.tasks;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
@@ -7,7 +7,7 @@ import smthyellow.model.Start;
 
 @Component
 @PropertySource("classpath:moto.properties")
-public class InjectPropertyFile implements Start {
+public class Task9InjectPropertyFile implements Start {
     @Value("${value}")
     String sound;
 
